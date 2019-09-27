@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NIM_tugasToastActiv</string>
+    <string name="countup">Count Up</string>
+    <string name="countdown">Count Down</string>
+    <string name="hellojodhi">Hello Jodhi</string>
+    <string name="angka29">29</string>
+</resources>
